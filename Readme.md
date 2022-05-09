@@ -8,11 +8,3 @@ This project scope is: read_products,write_products but you can change this for 
 
 ## Note
 **You must add a .env file to your project to save your app settings. Make sure you don't commit this file to your source code**
-
-## Make your app available on the internet from your localhost
-
-I'm using ngrok.com to tunnel traffic from the web to my localhost app.
-
-Videos about this app are on youtube.com/user/videocode2
-
-Make sure you install https://www.npmjs.com/package/dotenv for the .env file to work.
